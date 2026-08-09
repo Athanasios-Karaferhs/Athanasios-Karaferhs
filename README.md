@@ -1,8 +1,7 @@
 ![coffee](./coffee.gif)
 
 # 💫 About Me:
-I am a student studying computer science and telecommunications at DIT UTH. I am confident with c/c++ and I am currently working on web-dev. Also I am consistent, on time and pretty good at communication,creative thinking and sharing ideas.  
-
+CS & Telecommunications student at @DIT|UTH. Comfortable in **C/C++**, currently deep in web development. I like solving problems creatively and shipping things that work — consistently and on time.
 
 ## 🌐 Socials:
 
