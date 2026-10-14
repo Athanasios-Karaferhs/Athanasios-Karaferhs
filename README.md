@@ -1,6 +1,6 @@
 ![coffee](./coffee.gif)
 # 💫 About Me:
-CS & Telecommunications student at @DIT|UTH. Comfortable in C/C++,python,Java. currently deep into studies,math and projects. Problem solver,creatively and on time.
+CS & Telecommunications student at @DIT|UTH. Comfortable in C/C++,python. currently deep into studies and projects.
 
 
 # 💻 Tech Stack:
