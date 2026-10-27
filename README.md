@@ -10,5 +10,3 @@ CS & Telecommunications student at @DIT|UTH. Comfortable in C/C++,python. curren
 ![](https://streak-stats.demolab.com/?user=Athanasios-Karaferhs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Athanasios-Karaferhs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Athanasios-Karaferhs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
