@@ -1,4 +1,3 @@
-![coffee](./coffee.gif)
 # 💫 About Me:
 CS & Telecommunications student at @DIT|UTH. Comfortable in C/C++,python,currently deep into studies and projects.
 
